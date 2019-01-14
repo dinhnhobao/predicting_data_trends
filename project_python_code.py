@@ -83,12 +83,6 @@ pd.plotting.autocorrelation_plot(data)
 
 
 #Prediction:
-# Inverse Box-Cox Transformation Function
-def invboxcox(y,lmbda):
-    if lmbda == 0:
-        return (np.exp(y))
-    else:
-        return(np.exp(np.log(lmbda*y+1)/lmbda))
 
 
 # In[80]:
