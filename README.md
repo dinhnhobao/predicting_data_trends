@@ -1,2 +1,2 @@
-# predicting_trends_of_data
-Time series analysis of total stock data
+# predicting_data_trends
+Using Time series analysis/ARIMA for total stock data
